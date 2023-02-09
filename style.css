@@ -1,0 +1,9 @@
+#sun{
+    position: relative;
+    left: 20px;
+}
+#moon{
+    position: relative;
+    right: 20px;
+
+}
